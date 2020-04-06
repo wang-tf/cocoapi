@@ -1,7 +1,7 @@
 Clone of COCO API - http://cocodataset.org/
 ===========================================
 # Install
-`pip install git+https://github.com/wang-tf/cocoapi.git#subdirectory=PythonAPI`
+`pip install git+https://github.com/wang-tf/cocoapi.git@develop#subdirectory=PythonAPI`
 
 # Original README:
 
